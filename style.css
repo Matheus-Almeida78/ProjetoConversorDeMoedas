@@ -22,7 +22,7 @@ header {
     color: white;
     width: 375px;
     height: 66px;
-    background-color: #1B83E2;
+    background-color: black;
 }
 
 h1{
@@ -88,7 +88,7 @@ input[type="number"] {
 button {
     width: 327px;
     height: 48px;
-    background: #1B83E2;
+    background: black;
     border: none;
     border-radius: 25px;
     font-style: normal;
@@ -109,7 +109,7 @@ button:active{
 }
 
 section {
-    border: 2px solid #1B83E2;
+    border: 2px solid black;
     border-radius: 6px;
 }
 
@@ -135,7 +135,7 @@ section {
     font-size: 20px;
     display: flex;
     align-items: center;
-    color: #1B83E2;
+    color: black;
 }
 
 .arrow-img{
